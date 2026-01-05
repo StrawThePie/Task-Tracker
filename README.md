@@ -3,6 +3,7 @@
 A beginner-friendly command line app to efficiently manage your to-do list and track tasks.  
 Stores all tasks in a simple local JSON file. No third-party dependencies—just Python!
 
+Created for https://roadmap.sh/projects/task-tracker
 ---
 
 ## Features
